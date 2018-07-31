@@ -1,6 +1,6 @@
-# FirstProject
+# Bucket-List
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1. This web-app is responsive and let's users add and remove their wishes for their bucket list. It focuses on concept of components, template and styling, interpolation, property & event binding, animation, routing, services, etc.
 
 ## Development server
 
