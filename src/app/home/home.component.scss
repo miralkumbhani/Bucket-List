@@ -1,6 +1,6 @@
 .container {
-    grid-column: 1 / -1;
-    grid-row: 1 / 2;
+    display: grid;
+    grid-template-columns: 50% auto;
 }
 
 .col {
